@@ -69,12 +69,12 @@ Feeding India by Zomato has served over 123 million meals as of January 2021.
 
 **Graduate Research Assistantship** @ [Oklahoma State University](https://go.okstate.edu/) _(Jul 2021)_ <br>
   - Have been awarded Graduate Research Assistantship and Tuition Waiver for analyzing data related to OSU Faculty publications.
-<br><br>
+<br>
 
 **CIE Scholarshipn** @ [Oklahoma State University](https://go.okstate.edu/) _(Jul 2021)_ <br>
 Awarded one of the most coveted scholarships amongst 60+ applicants.
-<br><br>
+<br>
 
 **Decision Scientist Certification** @ [Mu Sigma](https://www.mu-sigma.com/) _(Apr 2018)_<br>
 Outstanding performance in year long, rigorous training program in technical, mathematical skills.
-<br><br>
+<br>
