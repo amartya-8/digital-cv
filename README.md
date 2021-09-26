@@ -1,6 +1,6 @@
 # Amartya Mitra
 
-_Data Scientist based in OK, Stillwater, USA_ <br>
+_Graduate Student specializing in Business Analytics and Data Science with 4.5+ years of experience as an analytics professional._ <br>
 
 [Email](mailto:amartya.mitra@okstate.edu) / [LinkedIn](https://www.linkedin.com/in/amartya-mitra/) / [GitHub](https://github.com/amartya-8)
 
