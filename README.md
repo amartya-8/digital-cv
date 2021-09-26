@@ -52,7 +52,7 @@ World’s largest pure-play data analytics firm providing data science solutions
 
 ## 👩🏼‍💻 Projects
 
-**Natural Language Processing** <br>
+**Natural Language Processing** <br> _(Aug 2018 - Sep 2018)_ <br>
   - Analyzed company reviews with 88% accuracy by scraping data from glassdoor, indeed and text classification using spacy.
   - Developed a sentiment analysis algorithm to understand the employee satisfaction with company culture.
 <br><br>
